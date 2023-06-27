@@ -1,6 +1,6 @@
 /* Created by: Mr. Coxall
  * Created on: Sep 2020
- * This is a Micro:bit JavaScript program
+ * This is program shows Hello, World!
 */
 
 basic.showString('Hello, World!')
